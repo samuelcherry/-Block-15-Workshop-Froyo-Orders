@@ -14,5 +14,4 @@ for (let i = 0; i < flavorsSplit.length; i++) {
     FlavorTotal[flavorsSplit[i]] = 1;
   }
 }
-console.log(typeof FlavorTotal);
 console.log(FlavorTotal);
